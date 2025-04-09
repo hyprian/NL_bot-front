@@ -1,0 +1,5 @@
+# front-engagement-bot/requirements.txt
+streamlit
+requests
+pandas
+pyyaml>=5.4 # For safe_load/dump in settings editor (needed for session_types)
